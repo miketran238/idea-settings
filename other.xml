@@ -1,0 +1,29 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="allen.george@gmail.com" />
+    <option name="ITN_PASSWORD_CRYPT" value="bXlKM3RicmExbnNQYXNz" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/7.0.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.6.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.5.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.3.0/bin/node" />
+  </component>
+  <component name="PsiViewer.Settings">
+    <option name="HIGHLIGHT_COLOR" value="162 3 229 32" />
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/local/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>

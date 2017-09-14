@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="j2" type="Jinja2" />
+      <mapping pattern="BUILD" type="PLAIN_TEXT" />
+      <mapping ext="ft" type="PLAIN_TEXT" />
+      <removed_mapping ext="sbt" type="SBT" />
+    </extensionMap>
+  </component>
+</application>
