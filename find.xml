@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>pom.xml</mask>
+      <mask>.</mask>
+      <mask>.py</mask>
+      <mask>.py*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
+      <mask>*p</mask>
+      <mask>*s</mask>
+      <mask>*spe</mask>
+      <mask>*spec</mask>
+      <mask>*spec*</mask>
+      <mask>*S*</mask>
+      <mask>*Spec*</mask>
+      <mask>*scala</mask>
+      <mask>th</mask>
+      <mask>thri</mask>
+      <mask>thrif</mask>
+      <mask>thrift</mask>
+      <mask>*.thr</mask>
+      <mask>*.thrif</mask>
+      <mask>*.thrift</mask>
+      <mask>s</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.sca</mask>
+      <mask>*.scala</mask>
+      <mask>*</mask>
+      <mask>*j</mask>
+      <mask>*js</mask>
+      <mask>*json</mask>
+    </recentFileMasks>
+  </component>
+</application>

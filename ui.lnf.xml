@@ -1,0 +1,27 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="FONT_FACE" value="Monaco" />
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="10" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="SHOW_TABS_TOOLTIPS" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
+  </component>
+</application>

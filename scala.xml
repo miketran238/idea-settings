@@ -1,0 +1,10 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_ENABLED" value="false" />
+    <option name="COMPILE_SERVER_ID" value="6f29546d-efc2-4643-916c-ab496b6d4367" />
+    <option name="COMPILE_SERVER_SDK" value="1.8_from_/Users/mitesh/aiq/pants" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4096" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss1m -Xmx4096m -Xms4096m" />
+    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
+  </component>
+</application>
