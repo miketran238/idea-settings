@@ -1,8 +1,11 @@
-<keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="Scala.RunConsole" />
 </keymap>

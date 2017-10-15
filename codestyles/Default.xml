@@ -1,5 +1,7 @@
 <code_scheme name="Default">
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
+  <option name="USE_FQ_CLASS_NAMES" value="true" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -48,4 +50,7 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="99" />
+  </ScalaCodeStyleSettings>
 </code_scheme>
