@@ -8,6 +8,7 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="500" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="SMART_INDENT_ON_ENTER" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
@@ -31,7 +32,6 @@
     <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="collapseHtmlStyleAttribute" value="false" />
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
   <component name="XmlSettings">

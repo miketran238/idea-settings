@@ -8,6 +8,7 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
     <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="XmlEditorOptions">
     <option name="autoCloseTag" value="false" />
