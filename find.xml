@@ -16,6 +16,16 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>pom.xml</mask>
+      <mask>*.ayml</mask>
+      <mask>*.ay</mask>
+      <mask>*.a</mask>
+      <mask>*.y</mask>
+      <mask>*.yaml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scala</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -1,15 +1,20 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="FindPrevious" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
   <action id="GotoSuperMethod" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunConsole" />
 </keymap>
