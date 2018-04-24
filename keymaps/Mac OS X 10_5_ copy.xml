@@ -1,20 +1,24 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
-  <action id="Diff.ShowSettingsPopup" />
-  <action id="FindPrevious" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="meta u" />
+  <action id="ExternalSystem.RefreshAllProjects">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="shift meta d" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
-  <action id="Github.Open.In.Browser">
-    <keyboard-shortcut first-keystroke="shift meta g" />
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
-  <action id="GotoSuperMethod" />
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="meta i" />
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
-  <action id="Scala.RenameJavaToScala" />
-  <action id="Scala.RunConsole" />
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Tool_External Tools_Vault Edit">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
 </keymap>
