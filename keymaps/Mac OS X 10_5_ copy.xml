@@ -2,6 +2,11 @@
   <action id="ExternalSystem.RefreshAllProjects">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="FindPrevious" />
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Scala.RenameJavaToScala" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
