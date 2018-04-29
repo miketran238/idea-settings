@@ -16,6 +16,10 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunConsole" />
   <action id="SwitchApply">
