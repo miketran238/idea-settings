@@ -32,6 +32,7 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="addImportMostCloseToReference" value="true" />
     <option name="classCountToUseImportOnDemand" value="99" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="Scala">

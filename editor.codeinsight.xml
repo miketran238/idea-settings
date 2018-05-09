@@ -1,4 +1,18 @@
 <application>
+  <component name="AdvancedExpressionFoldingSettings">
+    <option name="assertsCollapse" value="false" />
+    <option name="castExpressionsCollapse" value="false" />
+    <option name="checkExpressionsCollapse" value="false" />
+    <option name="compactControlFlowSyntaxCollapse" value="false" />
+    <option name="comparingExpressionsCollapse" value="false" />
+    <option name="concatenationExpressionsCollapse" value="false" />
+    <option name="getExpressionsCollapse" value="false" />
+    <option name="getSetExpressionsCollapse" value="false" />
+    <option name="rangeExpressionsCollapse" value="false" />
+    <option name="semicolonsCollapse" value="false" />
+    <option name="slicingExpressionsCollapse" value="false" />
+    <option name="varExpressionsCollapse" value="false" />
+  </component>
   <component name="AndroidFoldingSettings">
     <option name="collapseAndroidStrings" value="false" />
     <option name="COLLAPSE_ANDROID_TEXT" value="false" />
@@ -8,20 +22,15 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="CodeInsightSettings">
-    <option name="PARAMETER_INFO_DELAY" value="500" />
-    <option name="INSERT_SCRIPTLET_END_ON_ENTER" value="false" />
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
   </component>
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
