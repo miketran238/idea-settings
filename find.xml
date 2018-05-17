@@ -13,6 +13,5 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scala</mask>
-    <mask>*.j2</mask>
   </component>
 </application>
