@@ -16,7 +16,4 @@
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
-  </component>
 </application>
