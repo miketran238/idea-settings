@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,11 +16,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.j2</mask>
-    <mask>*.tsx</mask>
     <mask>*Table.scala</mask>
     <mask>*Spec.scala</mask>
     <mask>*DAO.scala</mask>
     <mask>*.scala</mask>
     <mask>*.sql</mask>
+    <mask>*.jsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
