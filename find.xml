@@ -17,12 +17,12 @@
     <mask>*.j2</mask>
     <mask>*.scala</mask>
     <mask>*.jsx</mask>
-    <mask>*.thrift</mask>
     <mask>*.tsx</mask>
     <mask>*.sql</mask>
     <mask>*DAO.scala</mask>
     <mask>*Table.scala</mask>
     <mask>*Dao.scala</mask>
     <mask>*Spec.scala</mask>
+    <mask>*.thrift</mask>
   </component>
 </application>
