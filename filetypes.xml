@@ -19,6 +19,7 @@
       <mapping ext="avro" type="PLAIN_TEXT" />
       <mapping ext="vault" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
+      <mapping ext="apple-dev" type="PLAIN_TEXT" />
       <mapping pattern="BUILD" type="Python" />
     </extensionMap>
   </component>
