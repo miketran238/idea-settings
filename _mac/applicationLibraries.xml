@@ -38,11 +38,6 @@
       </SOURCES>
     </library>
     <library name="python2.7 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="python2.7 interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7" />
         <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7/lib-dynload" />
