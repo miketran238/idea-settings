@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*record.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.j2</mask>
     <mask>*.jsx</mask>
-    <mask>*.tsx</mask>
     <mask>*.sql</mask>
     <mask>*DAO.scala</mask>
     <mask>*Table.scala</mask>
@@ -25,5 +23,6 @@
     <mask>*.scala</mask>
     <mask>*store.tsx</mask>
     <mask>*record.tsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
