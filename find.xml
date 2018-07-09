@@ -21,8 +21,8 @@
     <mask>*store.tsx</mask>
     <mask>*record.tsx</mask>
     <mask>*.jsx</mask>
-    <mask>*.scala</mask>
     <mask>*Spec.scala</mask>
     <mask>*.tsx</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
