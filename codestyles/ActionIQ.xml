@@ -1,4 +1,7 @@
 <code_scheme name="ActionIQ" version="173">
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
+  </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
