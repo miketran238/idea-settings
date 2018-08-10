@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,7 +24,7 @@
     <mask>*Api.scala</mask>
     <mask>*.sql</mask>
     <mask>*Spec.scala</mask>
-    <mask>*.scala</mask>
     <mask>*.tsx</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
