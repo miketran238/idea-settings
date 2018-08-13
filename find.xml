@@ -22,8 +22,8 @@
     <mask>*.jsx</mask>
     <mask>*Api.scala</mask>
     <mask>*.sql</mask>
-    <mask>*.scala</mask>
     <mask>*Spec.scala</mask>
     <mask>*.tsx</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
