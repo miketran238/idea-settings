@@ -23,7 +23,7 @@
     <mask>*Api.scala</mask>
     <mask>*.sql</mask>
     <mask>*Spec.scala</mask>
-    <mask>*.tsx</mask>
     <mask>*.scala</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
