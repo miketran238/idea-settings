@@ -21,11 +21,11 @@
     <mask>*.thrift</mask>
     <mask>*store.tsx</mask>
     <mask>*record.tsx</mask>
-    <mask>*.jsx</mask>
     <mask>*Api.scala</mask>
     <mask>*.sql</mask>
     <mask>*Spec.scala</mask>
-    <mask>*.tsx</mask>
     <mask>*.scala</mask>
+    <mask>*.tsx</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
