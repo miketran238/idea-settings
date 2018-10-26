@@ -11,6 +11,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="*.conf.j2" type="HOCON" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping pattern="logstash" type="PLAIN_TEXT" />
       <mapping pattern="test_customer" type="PLAIN_TEXT" />
