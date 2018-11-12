@@ -28,6 +28,7 @@
       <mapping pattern="BUILD" type="Python" />
       <mapping pattern="*.yaml.j2" type="YAML" />
       <mapping pattern="*.yml.j2" type="YAML" />
+      <mapping pattern="journeys" type="YAML" />
     </extensionMap>
   </component>
 </application>
