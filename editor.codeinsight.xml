@@ -32,6 +32,7 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
