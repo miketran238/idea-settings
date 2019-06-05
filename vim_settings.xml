@@ -29,7 +29,12 @@
         <mark key="]" line="47" column="16" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1559745816079" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1559747165878">
+        <mark key="[" line="464" column="54" />
+        <mark key="]" line="464" column="54" />
+        <mark key="^" line="464" column="56" />
+        <mark key="." line="464" column="54" />
+      </file>
       <file name="$USER_HOME$/aiq/src/python/doberman-local-dev.conf" timestamp="1559746145422">
         <mark key="[" line="29" column="14" />
         <mark key="]" line="30" column="24" />
@@ -46,7 +51,7 @@
         <text encoding="base64">ICAgIHlpbmdrZXNwbGFjZWhvbGQgPSBDcm9uVHJpZ2dlcihob3VyPWhvdXJzLCBtaW51dGU9bWludXRlcywgZGF5X29mX3dlZWs9ZGF5X29mX3dlZWssIHRpbWV6b25lPXB5dHouVVRDKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>REPLACE_ME</text>
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHJldHVybiB5aW5na2VzcGxhY2Vob2xkCg==</text>
@@ -73,7 +78,7 @@
         <text encoding="base64">ICAgIHByaW50ICJpIGhhdmUgY29tcGxldGVkIHRoYXQuIHRpbWUgdG8gdHJpZ2dlcl9mcm9tX2RpY3QiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>REPLACE_ME</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
