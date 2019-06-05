@@ -30,16 +30,26 @@
         <mark key="." line="47" column="16" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1559749717610">
-        <mark key="[" line="743" column="17" />
-        <mark key="]" line="743" column="47" />
-        <mark key="." line="743" column="47" />
-        <mark key="^" line="743" column="47" />
+        <mark key="[" line="740" column="17" />
+        <mark key="]" line="740" column="47" />
+        <mark key="." line="740" column="47" />
+        <mark key="^" line="740" column="47" />
       </file>
       <file name="$USER_HOME$/aiq/src/python/doberman-local-dev.conf" timestamp="1559746145422">
         <mark key="[" line="29" column="14" />
         <mark key="]" line="30" column="24" />
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
+      </file>
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/node_modules/react-error-overlay/lib/effects/proxyConsole.js" timestamp="1559755673700">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/helpers/Api.js" timestamp="1559755834852">
+        <mark key="[" line="68" column="78" />
+        <mark key="]" line="69" column="26" />
+        <mark key="^" line="69" column="26" />
+        <mark key="." line="69" column="26" />
       </file>
     </filemarks>
     <jumps>
