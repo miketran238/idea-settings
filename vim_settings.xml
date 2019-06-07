@@ -24,10 +24,10 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" timestamp="1559695470480">
-        <mark key="[" line="47" column="19" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" timestamp="1559932422730">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1559749717610">
         <mark key="[" line="740" column="17" />
@@ -57,37 +57,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uUHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uUHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpZXMgdG8gYWRkIHJ1bGUgaGVyZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBpbnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZXZhbHVhdGVfd2l0aF9hbGVydG1hbmFnZXIgc2F5czoiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXN1bHQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uUHJvbWlzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHlpbmdrZXNwbGFjZWhvbGQgPSBDcm9uVHJpZ2dlcihob3VyPWhvdXJzLCBtaW51dGU9bWludXRlcywgZGF5X29mX3dlZWs9ZGF5X29mX3dlZWssIHRpbWV6b25lPXB5dHouVVRDKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5aW5na2VzcGxhY2Vob2xkCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpZXMgdG8gYWRkIHJ1bGUgaGVyZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJXaGF0IG9uIGVhcnRoIGRvZXMgQ3JvblRyaWdnZXIgcmV0dXJuPyIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IHlpbmdrZXNwbGFjZWhvbGQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXN1bHQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
