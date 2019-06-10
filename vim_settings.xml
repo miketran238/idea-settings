@@ -23,6 +23,7 @@
         <mark key="^" line="140" column="11" />
       </file>
       <file name="$USER_HOME$/aiq/test/python/test_update_doberman_rules_task.py" timestamp="1560182563025" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560191776166" />
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1560176240274">
         <mark key="[" line="740" column="17" />
         <mark key="]" line="740" column="47" />
