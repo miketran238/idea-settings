@@ -8,7 +8,7 @@
         <mark key="]" line="159" column="14" />
         <mark key="." line="159" column="14" />
       </file>
-      <file name="$USER_HOME$/aiq/.pants.d/export/export/CPython-2.7.10/3a1cf9db9bc09d2574ca21e36c541fb50b404b2f/.deps/APScheduler-3.5.1-py2.py3-none-any.whl/apscheduler/schedulers/base.py" timestamp="1560175256650" />
+      <file name="$USER_HOME$/aiq/.pants.d/export/export/CPython-2.7.10/3a1cf9db9bc09d2574ca21e36c541fb50b404b2f/.deps/APScheduler-3.5.1-py2.py3-none-any.whl/apscheduler/schedulers/base.py" timestamp="1560182891304" />
       <file name="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" timestamp="1559944225880">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="24" column="25" />
@@ -16,12 +16,13 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560176550882">
-        <mark key="[" line="74" column="30" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="33" />
-        <mark key="^" line="69" column="33" />
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560183562700">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="35" />
       </file>
+      <file name="$USER_HOME$/aiq/test/python/test_update_doberman_rules_task.py" timestamp="1560182563025" />
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1560176240274">
         <mark key="[" line="740" column="17" />
         <mark key="]" line="740" column="47" />
@@ -66,8 +67,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>per</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChwZXJpb2RfdG9fZGljdChydWxlLnBlcmlvZCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>per</text>
@@ -76,31 +77,31 @@
         <text encoding="base64">XDxkZWZcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiaSBhbSBkb2luZyBmeG4ob2JqW2tleV0pIGluIHV0aWwucHkiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwZXJpb2RfdG9fZGljdChydWxlLnBlcmlvZCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKHJ1bGUucGVyaW9kKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiVFlQRSBPRiBSVUxFLlBEIElTICIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBpbnMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaSBhbSBkb2luZyBmeG4ob2JqW2tleV0pIGluIHV0aWwucHkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZXZhbHVhdGVfd2l0aF9hbGVydG1hbmFnZXIgc2F5czoiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uUHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBsYWJlbHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBpbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpZXMgdG8gYWRkIHJ1bGUgaGVyZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZXZhbHVhdGVfd2l0aF9hbGVydG1hbmFnZXIgc2F5czoiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhqc29uUHJvbWlzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
