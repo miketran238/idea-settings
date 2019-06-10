@@ -16,11 +16,12 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560198842583">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-        <mark key="^" line="248" column="29" />
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560201080694">
+        <mark key="'" line="194" column="4" />
+        <mark key="[" line="194" column="4" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="194" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/test/python/test_update_doberman_rules_task.py" timestamp="1560182563025" />
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560199707399" />
@@ -71,6 +72,7 @@
       <jump line="47" column="16" filename="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" />
       <jump line="23" column="4" filename="$USER_HOME$/aiq/src/python/doberman/server/trigger.py" />
       <jump line="17" column="0" filename="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" />
+      <jump line="194" column="4" filename="$USER_HOME$/aiq/src/python/doberman/server/registry.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -80,7 +82,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZcPg==</text>
+        <text encoding="base64">XDx0cnlcPg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBzZXNzaW9uLmNvbW1pdCgpCg==</text>
@@ -114,9 +116,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZcPg==</last-search>
+      <last-search encoding="base64">XDx0cnlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0cnlcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -124,6 +126,7 @@
       <history-search>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry encoding="base64">XDx0cnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -137,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
