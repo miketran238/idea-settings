@@ -16,8 +16,8 @@
         <mark key="^" line="24" column="40" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560189875276">
-        <mark key="[" line="140" column="0" />
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560190995320">
+        <mark key="[" line="173" column="69" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
         <mark key="^" line="140" column="11" />
@@ -129,6 +129,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
