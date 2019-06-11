@@ -27,11 +27,11 @@
         <mark key="." line="214" column="43" />
         <mark key="^" line="214" column="43" />
       </file>
-      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560266726913">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="38" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560267973142">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1560176240274">
         <mark key="[" line="740" column="17" />
@@ -85,7 +85,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lyZSBpcyAnLCB3aXJlKTsKICBjb25zb2xlLmxvZygnd2lyZS5oaXN0b3J5Jywgd2lyZS5oaXN0b3J5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -94,31 +94,31 @@
         <text encoding="base64">XDx0cnlcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lyZSBpcyAnLCB3aXJlKTsKICBjb25zb2xlLmxvZygnd2lyZS5oaXN0b3J5Jywgd2lyZS5oaXN0b3J5KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldmFsdWF0aW9uOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBldmFsdWF0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vYWRkRXhlY3V0aW9uRmllbGRzRnJvbUpzb24od2lyZSwgZXZhbHVhdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vYWRkUGVyaW9kRmllbGRzRnJvbUpzb24od2lyZSwgZXZhbHVhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIC8vYWRkRXhlY3V0aW9uRmllbGRzRnJvbUpzb24od2lyZSwgZXZhbHVhdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vYWRkRXZlbnRGaWVsZHNGcm9tSnNvbih3aXJlLCBldmFsdWF0aW9uKTsK</text>
+        <text encoding="base64">ICAgIC8vYWRkUGVyaW9kRmllbGRzRnJvbUpzb24od2lyZSwgZXZhbHVhdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZENvbW1vbkZpZWxkc0Zyb21Kc29uSGlzdG9yeSh3aXJlLCBldmFsdWF0aW9uKTsK</text>
+        <text encoding="base64">ICAgIC8vYWRkRXZlbnRGaWVsZHNGcm9tSnNvbih3aXJlLCBldmFsdWF0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZENvbW1vbkZpZWxkc0Zyb21Kc29uSGlzdG9yeSh3aXJlLCBldmFsdWF0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
