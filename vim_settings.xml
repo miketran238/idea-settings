@@ -20,19 +20,19 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560286521280">
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560287941843">
         <mark key="'" line="193" column="4" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-        <mark key="^" line="192" column="17" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="192" column="99" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/helpers/Util.js" timestamp="1560273078885" />
-      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560286725584">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="2" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="24" column="2" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560287863254">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="2" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1560176240274">
         <mark key="[" line="740" column="17" />
@@ -102,7 +102,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjb2x1bW5zIiwgY29sdW1ucwo=</text>
+        <text encoding="base64">ICAgICN0cnk6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -111,31 +111,31 @@
         <text encoding="base64">XDx0cnlcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjb2x1bW5zIiwgY29sdW1ucwo=</text>
+        <text encoding="base64">ICAgICN0cnk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJtb2RlbCBpcyAiLCBjbGFzc19tYXBwZXIobW9kZWwuX19jbGFzc19fKS5jb2x1bW5zCg==</text>
+        <text encoding="base64">ICAgICMgICAgcmV0dXJuIGpzb24uZHVtcHMoZXJyX29iaiksIDQwMCwgUkVTUE9OU0VfSEVBREVSUwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZXN0LnBlcmlvZCA9IHBlcmlvZEZyb21Kc29uKEpTT04ucGFyc2UocmVwbGFjZWQpKTsK</text>
+        <text encoding="base64">ICAgICMgICAgZXJyX29iaiA9IHsnZXJyJzogc3RyKGUpfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YXIgcmVwbGFjZWQgPSB3aXJlLnBlcmlvZC5yZXBsYWNlKC8nL2csICciJykK</text>
+        <text encoding="base64">ICAgICMgICAgbG9nLndhcm4oIiVzIGZhaWxlZCB3aXRoIGV4Y2VwdGlvbiIsIHJlcXVlc3QsIGV4Y19pbmZvPWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXBsYWNlZCA9IHJlcGxhY2VkLnJlcGxhY2UoJy9cXHUvZycsICciJykK</text>
+        <text encoding="base64">ICAgICNleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXBsYWNlZCA9IHJlcGxhY2VkLnJlcGxhY2UoJy9cXHUvZycsICciJykK</text>
+        <text encoding="base64">ICAgICMgICAgcmV0dXJuIGpzb24uZHVtcHMoZXhlY3V0ZWQpLCAyMDAsIFJFU1BPTlNFX0hFQURFUlMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX3RhYmxlLnJlcGxhY2UodSkK</text>
+        <text encoding="base64">ICAgICMgICAgZXhlY3V0ZWQgPSBnZXRfcmVzdWx0cyhqb2JzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBqc29uX3RhYmxlCg==</text>
+        <text encoding="base64">ICAgICMgICAgam9icyA9IHNjaGVkdWxlci5nZXRfam9icygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB5aW5nLWtlIGVkaXQ6IG5lZWQgdGhpcyBmb3IgZGF0YWJhc2UgYWN0aW9ucyArIGZpbGxpbmcgb3V0IGhpc3Rvcnkgcm93Cg==</text>
+        <text encoding="base64">ICAgICNyZXR1cm4gZGljdCgoYywgZ2V0YXR0cihtb2RlbCwgYykpIGZvciBjIGluIGNvbHVtbnMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
