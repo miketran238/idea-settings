@@ -20,18 +20,19 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560268884088">
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560283448920">
         <mark key="'" line="193" column="4" />
-        <mark key="[" line="108" column="62" />
-        <mark key="]" line="109" column="36" />
-        <mark key="." line="109" column="36" />
-        <mark key="^" line="109" column="36" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560272114591">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="9" column="48" />
-        <mark key="^" line="9" column="47" />
-        <mark key="." line="9" column="48" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/helpers/Util.js" timestamp="1560273078885" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/HistoryStore.js" timestamp="1560283477562">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="41" column="9" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1560176240274">
         <mark key="[" line="740" column="17" />
@@ -45,15 +46,17 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/node_modules/react-error-overlay/lib/effects/proxyConsole.js" timestamp="1559755673700">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="30" />
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/App.js" timestamp="1560281554860">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/helpers/Period.js" timestamp="1560270612370">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/components/Rules.js" timestamp="1560278739718" />
       <file name="$USER_HOME$/aiq/src/python/doberman/util.py" timestamp="1559945475750">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -71,16 +74,23 @@
         <mark key="^" line="28" column="12" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" timestamp="1560198500979">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="34" column="84" />
+      <file name="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" timestamp="1560282888978">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/helpers/Api.js" timestamp="1560263634932">
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/helpers/Api.js" timestamp="1560277916396">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/components/History.js" timestamp="1560282591663">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -88,43 +98,44 @@
       <jump line="23" column="4" filename="$USER_HOME$/aiq/src/python/doberman/server/trigger.py" />
       <jump line="17" column="0" filename="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" />
       <jump line="194" column="4" filename="$USER_HOME$/aiq/src/python/doberman/server/registry.py" />
+      <jump line="19" column="32" filename="$USER_HOME$/aiq/src/standalone/doberman-ui/src/components/History.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>epochmstoutcdate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBqc29uX3RhYmxlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>epochmstoutcdate</text>
+        <text>way</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlcPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaG93IHRvIGdldCBwZXJpb2QgJywgSlNPTi5wYXJzZSgneyJieSI6IHsibWludXRlIjogMCwgImhvdXIiOiAxMX19JykpOy8vd2lyZS5wZXJpb2QpKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBqc29uX3RhYmxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncmVwbGFjZScsIHdpcmUucGVyaW9kLnJlcGxhY2UoLycvZywgJyInKSk7Cg==</text>
+        <text encoding="base64">IyB5aW5nLWtlIGVkaXQ6IG5lZWQgdGhpcyBmb3IgZGF0YWJhc2UgYWN0aW9ucyArIGZpbGxpbmcgb3V0IGhpc3Rvcnkgcm93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lyZS5wZXJpb2QsJywgd2lyZS5wZXJpb2QpOwo=</text>
+        <text encoding="base64">IyB5aW5nLWtlIGVkaXQ6IGFkZGVkIGFuIHVwZGF0ZSB0byBoaXN0b3J5IGZvciBleGVjdXRpb24gdGltZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaG93IHRvIGdldCBwZXJpb2QgJywgSlNPTi5wYXJzZSgneyJieSI6IHsibWludXRlIjogMCwgImhvdXIiOiAxMX19JykpOy8vd2lyZS5wZXJpb2QpKTsK</text>
+        <text encoding="base64">ICAgIHByaW50IHRpbWVzdGFtcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygndHJpbT8nLCB3aXJlLnBlcmlvZCA9PSB3aXJlLnBlcmlvZC50cmltKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJUSU1FU1RBTVAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lyZWJ5bWluJywgU3RyaW5nKHdpcmVCeS5taW51dGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAjIHdlIGNhbiB0aGVuIHVzZSB0aGlzIGZvciB5b3VyIHBhcnRpY3VsYXIgZXhhbXBsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lyZWJ5aG91cicsIFN0cmluZyh3aXJlQnkuaG91cikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2lyZWJ5aG91cicsIFN0cmluZyh3aXJlQnkuaG91cikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHlpbmcta2UgZWRpdDogbmVlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoYXMgYSBieScpOwo=</text>
+        <text encoding="base64">ICAgIC8vZGVzdC5leGVjdXRpb25UaW1lRXBvY2hNcyA9IGVwb2NoTXNUb1V0Y0RhdGUoTWF0aC5yb3VuZCh3aXJlW25hbWVdKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
