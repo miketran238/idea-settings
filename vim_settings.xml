@@ -22,8 +22,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/aiq/thrift_clients.py" timestamp="1560348714466">
+      <file name="$USER_HOME$/aiq/src/python/aiq/thrift_clients.py" timestamp="1560349874886">
         <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="57" />
+        <mark key="^" line="25" column="57" />
+        <mark key="." line="25" column="57" />
       </file>
       <file name="$USER_HOME$/aiq/src/python/doberman/server/registry.py" timestamp="1560294056538">
         <mark key="'" line="193" column="4" />
