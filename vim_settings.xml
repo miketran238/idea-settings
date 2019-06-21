@@ -10,6 +10,11 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="159" column="13" />
       </file>
+      <file name="$USER_HOME$/aiq/deploy/ansible/roles/datadog/vars/autoscaling_sparkquery.yml" timestamp="1561144200210">
+        <mark key="[" line="138" column="10" />
+        <mark key="]" line="138" column="10" />
+        <mark key="." line="138" column="10" />
+      </file>
       <file name="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" timestamp="1560956914489">
         <mark key="'" line="65" column="70" />
         <mark key="[" line="13" column="74" />
@@ -81,11 +86,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" timestamp="1560955920586">
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="74" column="22" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="47" column="16" filename="$USER_HOME$/aiq/src/python/doberman/server/scheduled.py" />
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>results2</text>
@@ -154,6 +154,7 @@
         <entry>results2</entry>
       </history-search>
       <history-cmd>
+        <entry>133</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
