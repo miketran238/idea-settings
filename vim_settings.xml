@@ -33,11 +33,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/src/python/doberman-local-dev.conf" timestamp="1561133673897">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="28" />
+      <file name="$USER_HOME$/aiq/src/python/doberman-local-dev.conf" timestamp="1561134669319">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="$USER_HOME$/aiq/src/standalone/doberman-ui/src/stores/RuleStore.js" timestamp="1560176240274">
         <mark key="[" line="740" column="17" />
@@ -97,11 +97,11 @@
       <jump line="63" column="70" filename="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>results2</text>
