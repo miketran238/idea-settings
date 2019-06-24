@@ -10,11 +10,6 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="159" column="13" />
       </file>
-      <file name="$USER_HOME$/aiq/deploy/ansible/roles/datadog/vars/autoscaling_sparkquery.yml" timestamp="1561144200210">
-        <mark key="[" line="138" column="10" />
-        <mark key="]" line="138" column="10" />
-        <mark key="." line="138" column="10" />
-      </file>
       <file name="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" timestamp="1560956914489">
         <mark key="'" line="65" column="70" />
         <mark key="[" line="13" column="74" />
