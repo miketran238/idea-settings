@@ -22,6 +22,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/aiq/deploy/cf-update-copy" timestamp="1561490190197">
+        <mark key="'" line="444" column="6" />
+        <mark key="[" line="438" column="33" />
+        <mark key="]" line="439" column="46" />
+        <mark key="^" line="439" column="46" />
+        <mark key="." line="439" column="46" />
+      </file>
       <file name="$USER_HOME$/aiq/src/python/aiq/thrift_clients.py" timestamp="1560349874886">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="57" />
@@ -90,6 +97,8 @@
       <jump line="19" column="32" filename="$USER_HOME$/aiq/src/standalone/doberman-ui/src/components/History.js" />
       <jump line="156" column="4" filename="$USER_HOME$/aiq/src/python/doberman/evaluators/factory.py" />
       <jump line="63" column="70" filename="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" />
+      <jump line="67" column="22" filename="$USER_HOME$/aiq/deploy/cf-update-copy" />
+      <jump line="444" column="6" filename="$USER_HOME$/aiq/deploy/cf-update-copy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -99,7 +108,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>results2</text>
+        <text>create_sta</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -133,9 +142,9 @@
       </register>
     </registers>
     <search>
-      <last-search>results2</last-search>
+      <last-search>create_sta</last-search>
       <last-offset />
-      <last-pattern>results2</last-pattern>
+      <last-pattern>create_sta</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -147,6 +156,8 @@
         <entry>temp</entry>
         <entry>rules2</entry>
         <entry>results2</entry>
+        <entry>describe_sta</entry>
+        <entry>create_sta</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
