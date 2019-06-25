@@ -22,12 +22,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/aiq/deploy/cf-update-copy" timestamp="1561490190197">
-        <mark key="'" line="444" column="6" />
-        <mark key="[" line="438" column="33" />
-        <mark key="]" line="439" column="46" />
-        <mark key="^" line="439" column="46" />
-        <mark key="." line="439" column="46" />
+      <file name="$USER_HOME$/aiq/deploy/cf-update-copy" timestamp="1561491508382">
+        <mark key="'" line="200" column="29" />
+        <mark key="[" line="901" column="0" />
+        <mark key="]" line="901" column="0" />
+        <mark key="^" line="901" column="0" />
+        <mark key="." line="901" column="0" />
       </file>
       <file name="$USER_HOME$/aiq/src/python/aiq/thrift_clients.py" timestamp="1560349874886">
         <mark key="[" line="25" column="0" />
@@ -99,6 +99,7 @@
       <jump line="63" column="70" filename="$USER_HOME$/aiq/src/python/doberman/server/evaluations.py" />
       <jump line="67" column="22" filename="$USER_HOME$/aiq/deploy/cf-update-copy" />
       <jump line="444" column="6" filename="$USER_HOME$/aiq/deploy/cf-update-copy" />
+      <jump line="200" column="29" filename="$USER_HOME$/aiq/deploy/cf-update-copy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -108,7 +109,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>create_sta</text>
+        <text>delete_st</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -142,9 +143,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create_sta</last-search>
+      <last-search>delete_st</last-search>
       <last-offset />
-      <last-pattern>create_sta</last-pattern>
+      <last-pattern>delete_st</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -158,6 +159,7 @@
         <entry>results2</entry>
         <entry>describe_sta</entry>
         <entry>create_sta</entry>
+        <entry>delete_st</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
