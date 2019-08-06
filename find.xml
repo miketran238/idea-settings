@@ -16,5 +16,6 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.scala</mask>
+    <mask>*Dao*scala</mask>
   </component>
 </application>
