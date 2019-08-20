@@ -1,9 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
-    <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -11,6 +8,5 @@
     <entry key="pants.system.in.process" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
   </component>
 </application>
