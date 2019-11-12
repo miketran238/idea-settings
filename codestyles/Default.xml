@@ -42,7 +42,6 @@
     <option name="classCountToUseImportOnDemand" value="99" />
     <option name="doNotChangeLocalImportsOnOptimize" value="false" />
     <option name="sortAsScalastyle" value="true" />
-    <option name="SCALAFMT_CONFIG_PATH" value="/Users/mitesh/aiq/.scalafmt.conf" />
     <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="FORMATTER" value="1" />
