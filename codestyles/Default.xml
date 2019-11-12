@@ -44,7 +44,6 @@
     <option name="sortAsScalastyle" value="true" />
     <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
-    <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
