@@ -1,5 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <disabledLanguages>
+      <language id="Scala" />
+    </disabledLanguages>
   </component>
 </application>
