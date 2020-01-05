@@ -10,5 +10,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.tf</mask>
+    <mask>*.py</mask>
   </component>
 </application>
