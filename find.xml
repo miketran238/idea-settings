@@ -11,5 +11,6 @@
     <mask>*.java</mask>
     <mask>*.tf</mask>
     <mask>*.py</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
