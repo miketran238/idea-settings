@@ -2,15 +2,6 @@
   <component name="libraryTable">
     <library name="Python 2.7 (4a0dfa0b4b00678d722f4fae589d9dbf34d1682a) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/aiq/.idea/pants-projects/4a0dfa0b4b00678d722f4fae589d9dbf34d1682a/venv/lib/python2.7" />
-        <root url="file://$USER_HOME$/aiq/.idea/pants-projects/4a0dfa0b4b00678d722f4fae589d9dbf34d1682a/venv/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/aiq/.idea/pants-projects/4a0dfa0b4b00678d722f4fae589d9dbf34d1682a/venv/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.1/python_stubs/-995490821" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -19,15 +10,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/aiq/.idea/pants-projects/4a0dfa0b4b00678d722f4fae589d9dbf34d1682a/venv/lib/python2.7" />
-        <root url="file://$USER_HOME$/aiq/.idea/pants-projects/4a0dfa0b4b00678d722f4fae589d9dbf34d1682a/venv/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/aiq/.idea/pants-projects/4a0dfa0b4b00678d722f4fae589d9dbf34d1682a/venv/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2019.1/python_stubs/-995490821" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -37,15 +19,6 @@
     </library>
     <library name="Python 2.7.10 virtualenv at ~/aiq/deploy interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7" />
-        <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2017.2/python_stubs/-609909553" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -54,15 +27,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7" />
-        <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/anaconda/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/aiq/deploy/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2017.2/python_stubs/-609909553" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -81,7 +45,6 @@
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.2/python_stubs/348993582" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -99,7 +62,6 @@
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IdeaIC2018.2/python_stubs/348993582" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
