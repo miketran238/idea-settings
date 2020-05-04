@@ -69,7 +69,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="scala-sdk-2.11.8" type="Scala">
+    <library name="scala-sdk-2.11.12" type="Scala">
       <properties>
         <compiler-classpath>
           <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar" />
