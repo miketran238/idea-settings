@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,13 +13,13 @@
     <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*.tf</mask>
-    <mask>*.scala</mask>
     <mask>BUILD</mask>
-    <mask>*.thrift</mask>
     <mask>*.py</mask>
     <mask>*.conf</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.y*ml</mask>
+    <mask>*.thrift</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
