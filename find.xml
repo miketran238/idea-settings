@@ -9,12 +9,16 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.py</mask>
-    <mask>*.thrift</mask>
-    <mask>*.yml</mask>
-    <mask>*.scala</mask>
-    <mask>*Spec.scala</mask>
     <mask>*.sql</mask>
     <mask>*.tf</mask>
+    <mask>BUILD</mask>
+    <mask>*.conf</mask>
+    <mask>*.ts</mask>
+    <mask>*.tsx</mask>
+    <mask>*.y*ml</mask>
+    <mask>*.thrift</mask>
+    <mask>*.py</mask>
+    <mask>*.scala</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
