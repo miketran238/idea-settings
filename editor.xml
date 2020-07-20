@@ -8,8 +8,8 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
-    <option name="FONT_FAMILY" value="Andale Mono" />
+    <option name="FONT_SIZE" value="10" />
+    <option name="FONT_FAMILY" value="Menlo" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
