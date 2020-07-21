@@ -5,11 +5,13 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_ICONS_IN_MENUS" value="false" />
   </component>
 </application>
