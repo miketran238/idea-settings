@@ -16,7 +16,4 @@
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
-  <component name="XmlSettings">
-    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
-  </component>
 </application>

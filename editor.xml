@@ -22,6 +22,7 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_DND_ENABLED" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
@@ -37,5 +38,8 @@
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
     <option name="COLLAPSE_ENTITIES" value="false" />
     <option name="COLLAPSE_DATA_URI" value="false" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
   </component>
 </application>
