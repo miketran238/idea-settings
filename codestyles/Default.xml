@@ -39,6 +39,7 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="addImportsRelativeToBasePackage" value="false" />
     <option name="classCountToUseImportOnDemand" value="99" />
     <option name="doNotChangeLocalImportsOnOptimize" value="false" />
     <option name="importLayout">
