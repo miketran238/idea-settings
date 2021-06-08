@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern="BUILD" type="BUILD" />
       <mapping ext="gson" type="Groovy" />
       <mapping ext="ng" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
