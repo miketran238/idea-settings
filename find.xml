@@ -20,7 +20,7 @@
     <mask>*Spec.scala</mask>
     <mask>*.scala</mask>
     <mask>*.thrift`</mask>
-    <mask>*.tf</mask>
     <mask>*.py</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
