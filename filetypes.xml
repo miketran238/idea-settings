@@ -1,13 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping pattern="BUILD" type="BUILD" />
       <mapping ext="gson" type="Groovy" />
       <mapping ext="ng" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping pattern="BUILD" type="Python" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
