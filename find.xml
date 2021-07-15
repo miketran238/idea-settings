@@ -21,7 +21,7 @@
     <mask>*.thrift`</mask>
     <mask>*.py</mask>
     <mask>*.tf</mask>
-    <mask>*.thrift</mask>
     <mask>*dao.scala</mask>
+    <mask>*.thrift</mask>
   </component>
 </application>
