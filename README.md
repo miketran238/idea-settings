@@ -4,7 +4,7 @@ This repo attempts to standardize Intellij IDEA settings across AIQ developers.
 
 ### Import
 
-File > Settings Repository > Input this repo's URL > Overwrite local
+File > Manage IDE Settings > Settings Repository > Input this repo's URL > Overwrite local
 
 ### Code Style Only
 
