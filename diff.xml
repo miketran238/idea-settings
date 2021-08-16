@@ -6,6 +6,11 @@
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="ENABLE_SYNC_SCROLL" value="false" />
+        </PlaceSettings>
+      </entry>
     </option>
   </component>
 </application>
