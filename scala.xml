@@ -1,11 +1,6 @@
 <application>
   <component name="ScalaSettings">
-    <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
-    <option name="COMPILE_SERVER_ENABLED" value="false" />
-    <option name="COMPILE_SERVER_PORT" value="53974" />
-    <option name="COMPILE_SERVER_ID" value="6f29546d-efc2-4643-916c-ab496b6d4367" />
-    <option name="COMPILE_SERVER_SDK" value="1.8_from_/Users/mitesh/aiq/pants" />
-    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="4048" />
-    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
+    <option name="COMPILE_SERVER_ID" value="c97aeb4a-da73-404b-95b7-644bfa0bc1ea" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
   </component>
 </application>

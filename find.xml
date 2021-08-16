@@ -14,15 +14,14 @@
     <mask>*.conf</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.y*ml</mask>
     <mask>*.yml</mask>
     <mask>*Spec.scala</mask>
-    <mask>*.thrift`</mask>
-    <mask>*dao.scala</mask>
-    <mask>*.y*ml</mask>
-    <mask>*.conf*</mask>
     <mask>*.scala</mask>
-    <mask>*.py</mask>
+    <mask>*.thrift`</mask>
     <mask>*.tf</mask>
+    <mask>*dao.scala</mask>
     <mask>*.thrift</mask>
+    <mask>*.py</mask>
   </component>
 </application>
