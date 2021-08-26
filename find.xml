@@ -3,11 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*ts*</mask>
     <mask>*route*</mask>
     <mask>*.py</mask>
     <mask>*.ts</mask>
     <mask>*test*</mask>
     <mask>*scala*</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
