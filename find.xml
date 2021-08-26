@@ -3,11 +3,26 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*ts*</mask>
-    <mask>*scala*</mask>
-    <mask>*route*</mask>
-    <mask>*.py</mask>
+    <option name="FILE_MASK" value="*.tf" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
+    <mask>BUILD</mask>
+    <mask>*.conf</mask>
     <mask>*.ts</mask>
-    <mask>*test*</mask>
+    <mask>*.tsx</mask>
+    <mask>*.y*ml</mask>
+    <mask>*.yml</mask>
+    <mask>*Spec.scala</mask>
+    <mask>*.scala</mask>
+    <mask>*.thrift`</mask>
+    <mask>*dao.scala</mask>
+    <mask>*.thrift</mask>
+    <mask>*.py</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
