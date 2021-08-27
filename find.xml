@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*scala" />
+    <option name="FILE_MASK" value="*Spec.scala" />
     <mask>*ts*</mask>
     <mask>*route*</mask>
     <mask>*.py</mask>
@@ -12,5 +12,6 @@
     <mask>*scala*</mask>
     <mask>*.conf</mask>
     <mask>*scala</mask>
+    <mask>*Spec.scala</mask>
   </component>
 </application>
