@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.thrift" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,9 +20,9 @@
     <mask>*.scala</mask>
     <mask>*.thrift`</mask>
     <mask>*dao.scala</mask>
-    <mask>*.thrift</mask>
     <mask>*.tf</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
+    <mask>*.thrift</mask>
   </component>
 </application>
