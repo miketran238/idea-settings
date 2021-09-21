@@ -19,9 +19,9 @@
     <mask>*.scala</mask>
     <mask>*.thrift`</mask>
     <mask>*dao.scala</mask>
-    <mask>*.thrift</mask>
-    <mask>*.py</mask>
     <mask>*.tf</mask>
     <mask>*.conf</mask>
+    <mask>*.py</mask>
+    <mask>*.thrift</mask>
   </component>
 </application>
