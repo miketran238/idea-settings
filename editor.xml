@@ -1,4 +1,12 @@
 <application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
     <option name="FONT_FAMILY" value="Monospaced" />
@@ -8,8 +16,24 @@
   <component name="EditorSettings">
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseI18nMessages" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseShellComments" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
