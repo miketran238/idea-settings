@@ -9,4 +9,8 @@
   </action>
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunConsole" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
 </keymap>
