@@ -1,0 +1,16 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="FindPrevious" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Scala.RenameJavaToScala" />
+  <action id="Scala.RunConsole" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>

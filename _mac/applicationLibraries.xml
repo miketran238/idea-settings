@@ -5,51 +5,22 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python interpreter library">
-      <CLASSES>
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-      </SOURCES>
-    </library>
-    <library name="python2.7 interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="scala-sdk-2.11.12" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
         <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.12.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-compiler/2.11.12/scala-compiler-2.11.12.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.12.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.12.jar!/" />
-        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.12-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar!/" />
       </CLASSES>
-      <JAVADOC />
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.11.12/" />
+      </JAVADOC>
       <SOURCES />
     </library>
   </component>

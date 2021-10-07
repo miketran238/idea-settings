@@ -1,6 +1,6 @@
 <application>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
   </component>
 </application>
