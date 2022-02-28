@@ -1,42 +1,34 @@
 <application>
   <component name="libraryTable">
-    <library name="Python for aiq interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="python2.7 interpreter library">
+    <library name="Python 3.6 (deploy3.6.9) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1120596558" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/deploy3.6.9/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1171716953" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-darwin" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.15/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1120596558" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/deploy3.6.9/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IdeaIC2020.2/python_stubs/-1171716953" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="Python for aiq interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="scala-sdk-2.11.12" type="Scala">
       <properties>
