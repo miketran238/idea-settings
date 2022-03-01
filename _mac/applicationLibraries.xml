@@ -30,6 +30,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Python interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11.12" type="Scala">
       <properties>
         <language-level>Scala_2_11</language-level>
