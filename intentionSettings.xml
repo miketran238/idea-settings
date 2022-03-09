@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Groovy-style/Change anonymous class to dynamic instantiation" />
+  </component>
+</application>
